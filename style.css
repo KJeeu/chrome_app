@@ -27,7 +27,7 @@
 #login-form {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 52.5%;
     transform: translate( -50%, -50% );
     text-align: center;
     font-size: 15px;
@@ -43,6 +43,10 @@ input[type=text]{
     opacity: 0.8;
 }
 
+input[type=text]:hover{
+    background-color: rgb(232, 232, 232);
+}
+
 #login-button {
     width: 55px;
     height: 25px;
@@ -55,6 +59,7 @@ input[type=text]{
 #login-button:hover{
     cursor: pointer;
     background-color: rgb(232, 232, 232);
+
 }
 
 #todo-form {
@@ -68,7 +73,7 @@ input[type=text]{
 
 #quote {
     position: absolute;
-    top: 90%;
+    top: 92%;
     left: 50%;
     transform: translate( -50%, -50% );
     color: white;
