@@ -1,8 +1,10 @@
 # chrome_app
+
 ## 바닐라 JS로 크롬 앱
+
 ![default](img/preview.png)
 
-| | |
+|||
 |--|--|
 |<b>⚒️기술스택</b> |HTML/CSS, JavaScript|
 |<b>✨한줄소개</b>|프레임워크 쓰지 않고 순수 자바스크립트로만 시간, 투두리스트 구현|
